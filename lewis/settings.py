@@ -26,7 +26,7 @@ SECRET_KEY = '4sf31js@u&^tos4s2sqkea*g+36cg)i3s$i(gpq*-!est6$s)i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['jeremyanifaccc.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.cslewi.site']
 
 
 # Application definition
